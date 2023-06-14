@@ -1,0 +1,12 @@
+[common]
+secret_id = AKIDK0pQzM1jHsaEpDyiiaczAFL4fKpHufC7
+secret_key = 2LPltnT2ibgUsepocDi4F9mTdYCvhFep
+bucket = f7tv-h5-1303992123
+region = ap-guangzhou
+max_thread = 5
+part_size = 1
+retry = 5
+timeout = 60
+schema = https
+verify = md5
+anonymous = False

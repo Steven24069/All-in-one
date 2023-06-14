@@ -1,0 +1,12 @@
+[common]
+secret_id = AKIDX4cFoBORM7lLl7sV2RhtvMenndT9evAE
+secret_key = wfknfNvFNNzeDav76sRo12pOjw1sVyFO
+bucket = btv-h5-1310040068
+region = ap-shanghai
+max_thread = 5
+part_size = 1
+retry = 5
+timeout = 60
+schema = https
+verify = md5
+anonymous = False

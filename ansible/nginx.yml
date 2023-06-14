@@ -1,0 +1,28 @@
+host maybe is "remote" or all
+
+- name: Install Nginx
+  hosts: node1,node2
+  become: yes
+  become_user: root
+  tasks:
+        - name: install epel repository
+          yum:
+                name: epel-release
+                state: present
+          become: yes
+
+
+        - name: install Nginx package
+          yum:
+                name: nginx
+                state: present 
+          become: yes
+
+        - name: Start Nginx
+          service:
+                name: nginx
+                state: started
+          become: yes
+
+
+

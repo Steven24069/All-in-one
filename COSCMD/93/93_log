@@ -1,0 +1,482 @@
+2023-05-24 12:34:10,939 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/hot.ico   =>   cos://93tv-1310040068/h5/hot.ico
+2023-05-24 12:34:12,206 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/wq.ico   =>   cos://93tv-1310040068/h5/wq.ico
+2023-05-24 12:35:02,306 - [INFO]:  exiting
+2023-05-24 12:38:37,020 - [WARNING]:  cannot stat 'b'/Users/steven/Desktop/command/COSCMD/93/dist'': No such file or directory
+2023-05-24 12:39:12,317 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/index.html   =>   cos://93tv-1310040068/h5/index.html
+2023-05-24 12:39:12,839 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/wq.ico   =>   cos://93tv-1310040068/h5/wq.ico
+2023-05-24 12:39:13,033 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/btv.ico   =>   cos://93tv-1310040068/h5/btv.ico
+2023-05-24 12:39:13,568 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/r8.ico   =>   cos://93tv-1310040068/h5/r8.ico
+2023-05-24 12:39:13,655 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/hot.ico   =>   cos://93tv-1310040068/h5/hot.ico
+2023-05-24 12:39:15,339 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/th.ico   =>   cos://93tv-1310040068/h5/th.ico
+2023-05-24 12:39:16,120 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/93.ico   =>   cos://93tv-1310040068/h5/93.ico
+2023-05-24 12:39:16,956 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/bs.ico   =>   cos://93tv-1310040068/h5/bs.ico
+2023-05-24 12:39:17,110 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/tq.ico   =>   cos://93tv-1310040068/h5/tq.ico
+2023-05-24 12:39:17,637 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/manifest.json   =>   cos://93tv-1310040068/h5/manifest.json
+2023-05-24 12:39:19,077 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/kw.ico   =>   cos://93tv-1310040068/h5/kw.ico
+2023-05-24 12:39:19,459 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/lq.ico   =>   cos://93tv-1310040068/h5/lq.ico
+2023-05-24 12:39:20,868 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/f7.ico   =>   cos://93tv-1310040068/h5/f7.ico
+2023-05-24 12:39:21,254 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-6afa66bb.1aa19492.css   =>   cos://93tv-1310040068/h5/css/chunk-6afa66bb.1aa19492.css
+2023-05-24 12:39:21,895 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-7eace207.8427bf79.css   =>   cos://93tv-1310040068/h5/css/chunk-7eace207.8427bf79.css
+2023-05-24 12:39:23,181 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-47929a14.bb90b10f.css   =>   cos://93tv-1310040068/h5/css/chunk-47929a14.bb90b10f.css
+2023-05-24 12:39:23,875 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-a2af3736.776d77d4.css   =>   cos://93tv-1310040068/h5/css/chunk-a2af3736.776d77d4.css
+2023-05-24 12:39:24,770 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-f99aa068.03bf2e3b.css   =>   cos://93tv-1310040068/h5/css/chunk-f99aa068.03bf2e3b.css
+2023-05-24 12:39:25,040 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-415ff868.9d47ee5d.css   =>   cos://93tv-1310040068/h5/css/chunk-415ff868.9d47ee5d.css
+2023-05-24 12:39:25,465 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-4127adfe.95cb2214.css   =>   cos://93tv-1310040068/h5/css/chunk-4127adfe.95cb2214.css
+2023-05-24 12:39:25,541 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-41e161b4.85440146.css   =>   cos://93tv-1310040068/h5/css/chunk-41e161b4.85440146.css
+2023-05-24 12:39:26,096 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-29ae58bd.a51821c5.css   =>   cos://93tv-1310040068/h5/css/chunk-29ae58bd.a51821c5.css
+2023-05-24 12:39:26,214 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-4196c407.cb24aab1.css   =>   cos://93tv-1310040068/h5/css/chunk-4196c407.cb24aab1.css
+2023-05-24 12:39:26,323 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-2003dd8c.3e037c8c.css   =>   cos://93tv-1310040068/h5/css/chunk-2003dd8c.3e037c8c.css
+2023-05-24 12:39:26,931 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-099b9546.e5a9006a.css   =>   cos://93tv-1310040068/h5/css/chunk-099b9546.e5a9006a.css
+2023-05-24 12:39:27,116 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-1ed81d4c.c4f80ad2.css   =>   cos://93tv-1310040068/h5/css/chunk-1ed81d4c.c4f80ad2.css
+2023-05-24 12:39:27,270 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-96f334e0.eacd2b32.css   =>   cos://93tv-1310040068/h5/css/chunk-96f334e0.eacd2b32.css
+2023-05-24 12:39:27,788 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-11d0a1cf.031b9790.css   =>   cos://93tv-1310040068/h5/css/chunk-11d0a1cf.031b9790.css
+2023-05-24 12:39:28,233 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/app.cc446be5.css   =>   cos://93tv-1310040068/h5/css/app.cc446be5.css
+2023-05-24 12:39:29,641 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-322e4132.1f4643a1.css   =>   cos://93tv-1310040068/h5/css/chunk-322e4132.1f4643a1.css
+2023-05-24 12:39:29,683 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-318188a8.6b3a4494.css   =>   cos://93tv-1310040068/h5/css/chunk-318188a8.6b3a4494.css
+2023-05-24 12:39:30,283 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-74ac859c.9dcea575.css   =>   cos://93tv-1310040068/h5/css/chunk-74ac859c.9dcea575.css
+2023-05-24 12:39:30,795 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-344b12f8.9db6d9de.css   =>   cos://93tv-1310040068/h5/css/chunk-344b12f8.9db6d9de.css
+2023-05-24 12:39:31,640 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-38281ebc.6b64fb16.css   =>   cos://93tv-1310040068/h5/css/chunk-38281ebc.6b64fb16.css
+2023-05-24 12:39:32,463 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-01835693.50620329.css   =>   cos://93tv-1310040068/h5/css/chunk-01835693.50620329.css
+2023-05-24 12:39:32,901 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-394c9b17.de70ab1a.css   =>   cos://93tv-1310040068/h5/css/chunk-394c9b17.de70ab1a.css
+2023-05-24 12:39:32,956 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-9d83ab72.13d2254c.css   =>   cos://93tv-1310040068/h5/css/chunk-9d83ab72.13d2254c.css
+2023-05-24 12:39:34,153 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-e01bf61a.b3e3795e.css   =>   cos://93tv-1310040068/h5/css/chunk-e01bf61a.b3e3795e.css
+2023-05-24 12:39:34,682 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-161b22fd.9c9a4828.css   =>   cos://93tv-1310040068/h5/css/chunk-161b22fd.9c9a4828.css
+2023-05-24 12:39:34,807 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-6566ec0f.1df92780.css   =>   cos://93tv-1310040068/h5/css/chunk-6566ec0f.1df92780.css
+2023-05-24 12:39:34,843 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-491a4002.a57379db.css   =>   cos://93tv-1310040068/h5/css/chunk-491a4002.a57379db.css
+2023-05-24 12:39:35,284 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-vendors.4a334506.css   =>   cos://93tv-1310040068/h5/css/chunk-vendors.4a334506.css
+2023-05-24 12:39:35,371 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-0e241a18.aff40d3d.css   =>   cos://93tv-1310040068/h5/css/chunk-0e241a18.aff40d3d.css
+2023-05-24 12:39:36,218 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-cc71aac2.32307012.css   =>   cos://93tv-1310040068/h5/css/chunk-cc71aac2.32307012.css
+2023-05-24 12:39:36,856 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-0db1ab76.a1a292d6.css   =>   cos://93tv-1310040068/h5/css/chunk-0db1ab76.a1a292d6.css
+2023-05-24 12:39:36,902 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-c76aa8aa.6ed18704.css   =>   cos://93tv-1310040068/h5/css/chunk-c76aa8aa.6ed18704.css
+2023-05-24 12:39:37,747 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-6cdc2fa2.cea27539.css   =>   cos://93tv-1310040068/h5/css/chunk-6cdc2fa2.cea27539.css
+2023-05-24 12:39:37,752 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-27073b87.a7c2f5e5.css   =>   cos://93tv-1310040068/h5/css/chunk-27073b87.a7c2f5e5.css
+2023-05-24 12:39:38,081 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-4684a8a2.06a258b9.css   =>   cos://93tv-1310040068/h5/css/chunk-4684a8a2.06a258b9.css
+2023-05-24 12:39:38,436 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-6f99d317.0121c6a1.css   =>   cos://93tv-1310040068/h5/css/chunk-6f99d317.0121c6a1.css
+2023-05-24 12:39:38,927 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-919b3134.e7d0d5d1.css   =>   cos://93tv-1310040068/h5/css/chunk-919b3134.e7d0d5d1.css
+2023-05-24 12:39:39,532 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-167b0ef3.8b09d1d1.css   =>   cos://93tv-1310040068/h5/css/chunk-167b0ef3.8b09d1d1.css
+2023-05-24 12:39:40,327 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-105680fa.71bd3cfe.css   =>   cos://93tv-1310040068/h5/css/chunk-105680fa.71bd3cfe.css
+2023-05-24 12:39:40,747 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-1387413f.dbf01fc3.css   =>   cos://93tv-1310040068/h5/css/chunk-1387413f.dbf01fc3.css
+2023-05-24 12:39:40,829 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-98c33168.c52d75d0.css   =>   cos://93tv-1310040068/h5/css/chunk-98c33168.c52d75d0.css
+2023-05-24 12:39:41,371 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-3fc7b7dd.26be7584.css   =>   cos://93tv-1310040068/h5/css/chunk-3fc7b7dd.26be7584.css
+2023-05-24 12:39:41,653 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-41e161b4.ecbc5193.js   =>   cos://93tv-1310040068/h5/js/chunk-41e161b4.ecbc5193.js
+2023-05-24 12:39:41,912 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-7c5bbc3a.b25ff8c0.css   =>   cos://93tv-1310040068/h5/css/chunk-7c5bbc3a.b25ff8c0.css
+2023-05-24 12:39:41,981 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-e01bf61a.d227dfaf.js   =>   cos://93tv-1310040068/h5/js/chunk-e01bf61a.d227dfaf.js
+2023-05-24 12:39:42,855 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-6afa66bb.3e8a0d8d.js   =>   cos://93tv-1310040068/h5/js/chunk-6afa66bb.3e8a0d8d.js
+2023-05-24 12:39:43,236 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-38281ebc.ecd76064.js   =>   cos://93tv-1310040068/h5/js/chunk-38281ebc.ecd76064.js
+2023-05-24 12:39:43,269 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-53e50c68.2a74ae83.js   =>   cos://93tv-1310040068/h5/js/chunk-53e50c68.2a74ae83.js
+2023-05-24 12:39:44,054 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/app.d840b18a.js   =>   cos://93tv-1310040068/h5/js/app.d840b18a.js
+2023-05-24 12:39:44,854 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-98c33168.8b54e38d.js   =>   cos://93tv-1310040068/h5/js/chunk-98c33168.8b54e38d.js
+2023-05-24 12:39:45,808 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-344b12f8.c2cd9e0e.js   =>   cos://93tv-1310040068/h5/js/chunk-344b12f8.c2cd9e0e.js
+2023-05-24 12:39:47,245 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-105680fa.3ed16431.js   =>   cos://93tv-1310040068/h5/js/chunk-105680fa.3ed16431.js
+2023-05-24 12:39:47,753 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-f8e19016.9af9e433.css   =>   cos://93tv-1310040068/h5/css/chunk-f8e19016.9af9e433.css
+2023-05-24 12:39:48,930 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-1ed81d4c.d2ac9033.js   =>   cos://93tv-1310040068/h5/js/chunk-1ed81d4c.d2ac9033.js
+2023-05-24 12:39:49,219 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-3fc7b7dd.7ea63b12.js   =>   cos://93tv-1310040068/h5/js/chunk-3fc7b7dd.7ea63b12.js
+2023-05-24 12:39:49,897 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-1387413f.c23abb53.js   =>   cos://93tv-1310040068/h5/js/chunk-1387413f.c23abb53.js
+2023-05-24 12:39:51,221 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-0e241a18.6267782a.js   =>   cos://93tv-1310040068/h5/js/chunk-0e241a18.6267782a.js
+2023-05-24 12:39:51,647 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-0db1ab76.63c23447.js   =>   cos://93tv-1310040068/h5/js/chunk-0db1ab76.63c23447.js
+2023-05-24 12:39:53,397 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-415ff868.94519464.js   =>   cos://93tv-1310040068/h5/js/chunk-415ff868.94519464.js
+2023-05-24 12:39:54,431 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-11d0a1cf.70f38144.js   =>   cos://93tv-1310040068/h5/js/chunk-11d0a1cf.70f38144.js
+2023-05-24 12:39:56,716 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-vendors.dbe1b247.js   =>   cos://93tv-1310040068/h5/js/chunk-vendors.dbe1b247.js
+2023-05-24 12:39:56,872 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-f8e19016.cd05c069.js   =>   cos://93tv-1310040068/h5/js/chunk-f8e19016.cd05c069.js
+2023-05-24 12:39:58,096 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-7c5bbc3a.62cfa56e.js   =>   cos://93tv-1310040068/h5/js/chunk-7c5bbc3a.62cfa56e.js
+2023-05-24 12:40:02,559 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-394c9b17.209d8f62.js   =>   cos://93tv-1310040068/h5/js/chunk-394c9b17.209d8f62.js
+2023-05-24 12:40:04,060 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-6cdc2fa2.f91ed315.js   =>   cos://93tv-1310040068/h5/js/chunk-6cdc2fa2.f91ed315.js
+2023-05-24 12:40:05,566 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-161b22fd.26317c24.js   =>   cos://93tv-1310040068/h5/js/chunk-161b22fd.26317c24.js
+2023-05-24 12:40:07,132 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-4127adfe.71893fad.js   =>   cos://93tv-1310040068/h5/js/chunk-4127adfe.71893fad.js
+2023-05-24 12:40:07,823 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-f99aa068.ca4ad78c.js   =>   cos://93tv-1310040068/h5/js/chunk-f99aa068.ca4ad78c.js
+2023-05-24 12:40:09,583 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-6566ec0f.0f4d6fd1.js   =>   cos://93tv-1310040068/h5/js/chunk-6566ec0f.0f4d6fd1.js
+2023-05-24 12:40:11,527 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-318188a8.00c4f40d.js   =>   cos://93tv-1310040068/h5/js/chunk-318188a8.00c4f40d.js
+2023-05-24 12:40:12,420 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-2003dd8c.a495f180.js   =>   cos://93tv-1310040068/h5/js/chunk-2003dd8c.a495f180.js
+2023-05-24 12:40:15,611 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-099b9546.01b6d7f7.js   =>   cos://93tv-1310040068/h5/js/chunk-099b9546.01b6d7f7.js
+2023-05-24 12:40:17,002 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-7eace207.03b75b9f.js   =>   cos://93tv-1310040068/h5/js/chunk-7eace207.03b75b9f.js
+2023-05-24 12:40:18,689 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-01835693.9fdf6c60.js   =>   cos://93tv-1310040068/h5/js/chunk-01835693.9fdf6c60.js
+2023-05-24 12:40:20,266 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-27073b87.79b38161.js   =>   cos://93tv-1310040068/h5/js/chunk-27073b87.79b38161.js
+2023-05-24 12:40:22,621 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-96f334e0.b839fdbb.js   =>   cos://93tv-1310040068/h5/js/chunk-96f334e0.b839fdbb.js
+2023-05-24 12:40:24,509 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-167b0ef3.c14d242d.js   =>   cos://93tv-1310040068/h5/js/chunk-167b0ef3.c14d242d.js
+2023-05-24 12:40:25,881 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-322e4132.021ac210.js   =>   cos://93tv-1310040068/h5/js/chunk-322e4132.021ac210.js
+2023-05-24 12:40:27,594 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-4196c407.79940647.js   =>   cos://93tv-1310040068/h5/js/chunk-4196c407.79940647.js
+2023-05-24 12:40:27,628 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-4684a8a2.4f4be5e3.js   =>   cos://93tv-1310040068/h5/js/chunk-4684a8a2.4f4be5e3.js
+2023-05-24 12:40:29,350 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-919b3134.d3df4c06.js   =>   cos://93tv-1310040068/h5/js/chunk-919b3134.d3df4c06.js
+2023-05-24 12:40:33,100 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-6f99d317.964510a3.js   =>   cos://93tv-1310040068/h5/js/chunk-6f99d317.964510a3.js
+2023-05-24 12:40:36,382 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-74ac859c.90b17f62.js   =>   cos://93tv-1310040068/h5/js/chunk-74ac859c.90b17f62.js
+2023-05-24 12:40:37,777 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-491a4002.bd2a3e72.js   =>   cos://93tv-1310040068/h5/js/chunk-491a4002.bd2a3e72.js
+2023-05-24 12:40:38,114 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-cc71aac2.8d9bec2e.js   =>   cos://93tv-1310040068/h5/js/chunk-cc71aac2.8d9bec2e.js
+2023-05-24 12:40:40,550 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-47929a14.1941b8a8.js   =>   cos://93tv-1310040068/h5/js/chunk-47929a14.1941b8a8.js
+2023-05-24 12:40:41,802 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-29ae58bd.b5d2b970.js   =>   cos://93tv-1310040068/h5/js/chunk-29ae58bd.b5d2b970.js
+2023-05-24 12:40:41,824 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-9d83ab72.c2083760.js   =>   cos://93tv-1310040068/h5/js/chunk-9d83ab72.c2083760.js
+2023-05-24 12:40:42,957 - [WARNING]:  HTTPSConnectionPool(host='93tv-1310040068.cos.ap-shanghai.myqcloud.com', port=443): Max retries exceeded with url: /h5/js/chunk-53e50c68.2a74ae83.js (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+2023-05-24 12:40:43,961 - [INFO]:  Retry to upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-53e50c68.2a74ae83.js   =>   cos://93tv-1310040068/h5/js/chunk-53e50c68.2a74ae83.js
+2023-05-24 12:40:44,528 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-a2af3736.1399d3d8.js   =>   cos://93tv-1310040068/h5/js/chunk-a2af3736.1399d3d8.js
+2023-05-24 12:40:45,487 - [WARNING]:  HTTPSConnectionPool(host='93tv-1310040068.cos.ap-shanghai.myqcloud.com', port=443): Max retries exceeded with url: /h5/js/chunk-344b12f8.c2cd9e0e.js (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+2023-05-24 12:40:45,943 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-c76aa8aa.75bd5eae.js   =>   cos://93tv-1310040068/h5/js/chunk-c76aa8aa.75bd5eae.js
+2023-05-24 12:40:46,489 - [INFO]:  Retry to upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-344b12f8.c2cd9e0e.js   =>   cos://93tv-1310040068/h5/js/chunk-344b12f8.c2cd9e0e.js
+2023-05-24 12:40:47,730 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/vip_bg_5.bea94313.png   =>   cos://93tv-1310040068/h5/img/vip_bg_5.bea94313.png
+2023-05-24 12:40:48,828 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/nomatch.9623b3d9.png   =>   cos://93tv-1310040068/h5/img/nomatch.9623b3d9.png
+2023-05-24 12:40:50,594 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/aegis.4a8c0f95.gif   =>   cos://93tv-1310040068/h5/img/aegis.4a8c0f95.gif
+2023-05-24 12:40:51,145 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/subzbbg_01.0395b187.png   =>   cos://93tv-1310040068/h5/img/subzbbg_01.0395b187.png
+2023-05-24 12:40:52,361 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/avatar_sel.92deaaf3.png   =>   cos://93tv-1310040068/h5/img/avatar_sel.92deaaf3.png
+2023-05-24 12:40:52,707 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/ic_football_formation_cloth_home.51796376.png   =>   cos://93tv-1310040068/h5/img/ic_football_formation_cloth_home.51796376.png
+2023-05-24 12:40:52,930 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/lanqius.7de6e6bf.png   =>   cos://93tv-1310040068/h5/img/lanqius.7de6e6bf.png
+2023-05-24 12:40:53,846 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/vip_level_1.a91b1124.png   =>   cos://93tv-1310040068/h5/img/vip_level_1.a91b1124.png
+2023-05-24 12:40:54,073 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/live-gif.94c113fa.gif   =>   cos://93tv-1310040068/h5/img/live-gif.94c113fa.gif
+2023-05-24 12:40:55,113 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/home_post_2.713bb506.png   =>   cos://93tv-1310040068/h5/img/home_post_2.713bb506.png
+2023-05-24 12:40:55,470 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/ic_football_formation_cloth_away.55c5e50c.png   =>   cos://93tv-1310040068/h5/img/ic_football_formation_cloth_away.55c5e50c.png
+2023-05-24 12:40:55,640 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/subzbbg_02.8e747d31.png   =>   cos://93tv-1310040068/h5/img/subzbbg_02.8e747d31.png
+2023-05-24 12:40:56,082 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/home_gif_mp4.2b0d1468.gif   =>   cos://93tv-1310040068/h5/img/home_gif_mp4.2b0d1468.gif
+2023-05-24 12:40:57,076 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/loginbg.47331af6.png   =>   cos://93tv-1310040068/h5/img/loginbg.47331af6.png
+2023-05-24 12:40:58,383 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/download.fc838e9f.png   =>   cos://93tv-1310040068/h5/img/download.fc838e9f.png
+2023-05-24 12:40:58,653 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/nofriendbg.fae36b73.png   =>   cos://93tv-1310040068/h5/img/nofriendbg.fae36b73.png
+2023-05-24 12:40:59,542 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/zanwupinglun@3x.8cf81eeb.png   =>   cos://93tv-1310040068/h5/img/zanwupinglun@3x.8cf81eeb.png
+2023-05-24 12:41:00,921 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/nighttips.65e3fbda.png   =>   cos://93tv-1310040068/h5/img/nighttips.65e3fbda.png
+2023-05-24 12:41:01,205 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/download_btn.b6e134a9.png   =>   cos://93tv-1310040068/h5/img/download_btn.b6e134a9.png
+2023-05-24 12:41:01,292 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/vip_level_5.95a7f0a1.png   =>   cos://93tv-1310040068/h5/img/vip_level_5.95a7f0a1.png
+2023-05-24 12:41:03,024 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/play_bt.59291766.png   =>   cos://93tv-1310040068/h5/img/play_bt.59291766.png
+2023-05-24 12:41:04,013 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/home-ad-btn.29278b26.png   =>   cos://93tv-1310040068/h5/img/home-ad-btn.29278b26.png
+2023-05-24 12:41:04,305 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/vip_level_3.bd0112e1.png   =>   cos://93tv-1310040068/h5/img/vip_level_3.bd0112e1.png
+2023-05-24 12:41:05,227 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/basketball_gif.7dab2e2c.gif   =>   cos://93tv-1310040068/h5/img/basketball_gif.7dab2e2c.gif
+2023-05-24 12:41:05,514 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/plany_rb_bg.720de5d6.png   =>   cos://93tv-1310040068/h5/img/plany_rb_bg.720de5d6.png
+2023-05-24 12:41:08,388 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/home-ad-box.68a5ac77.png   =>   cos://93tv-1310040068/h5/img/home-ad-box.68a5ac77.png
+2023-05-24 12:41:10,455 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/img_football_formation.895ec71f.png   =>   cos://93tv-1310040068/h5/img/img_football_formation.895ec71f.png
+2023-05-24 12:41:12,327 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/football_gif.c3255505.gif   =>   cos://93tv-1310040068/h5/img/football_gif.c3255505.gif
+2023-05-24 12:41:13,211 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/login_bg.d196c77d.png   =>   cos://93tv-1310040068/h5/img/login_bg.d196c77d.png
+2023-05-24 12:41:14,145 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/home_gif_nolive.32d89c68.gif   =>   cos://93tv-1310040068/h5/img/home_gif_nolive.32d89c68.gif
+2023-05-24 12:41:14,767 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/downApp.68199c40.png   =>   cos://93tv-1310040068/h5/img/downApp.68199c40.png
+2023-05-24 12:41:16,044 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/vip_bg_3.fb82a4ed.png   =>   cos://93tv-1310040068/h5/img/vip_bg_3.fb82a4ed.png
+2023-05-24 12:41:16,062 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/home_gif_live.00c9b005.gif   =>   cos://93tv-1310040068/h5/img/home_gif_live.00c9b005.gif
+2023-05-24 12:41:16,243 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/vip_level_4.5b5abe39.png   =>   cos://93tv-1310040068/h5/img/vip_level_4.5b5abe39.png
+2023-05-24 12:41:17,833 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/friendsBg_01.e01dcc6c.png   =>   cos://93tv-1310040068/h5/img/friendsBg_01.e01dcc6c.png
+2023-05-24 12:41:18,568 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/roomBg.aaa5fe9e.png   =>   cos://93tv-1310040068/h5/img/roomBg.aaa5fe9e.png
+2023-05-24 12:41:19,044 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/taskbtn.2e409a31.png   =>   cos://93tv-1310040068/h5/img/taskbtn.2e409a31.png
+2023-05-24 12:41:19,056 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/exchange_succes.7fcc8e7b.png   =>   cos://93tv-1310040068/h5/img/exchange_succes.7fcc8e7b.png
+2023-05-24 12:41:20,231 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/share.2b057f25.png   =>   cos://93tv-1310040068/h5/img/share.2b057f25.png
+2023-05-24 12:41:20,815 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/change_line.7d0f46d5.png   =>   cos://93tv-1310040068/h5/img/change_line.7d0f46d5.png
+2023-05-24 12:41:22,788 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/guanfangtuijian.84f9b2d1.png   =>   cos://93tv-1310040068/h5/img/guanfangtuijian.84f9b2d1.png
+2023-05-24 12:41:23,821 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/vip_bg_1.bb37111d.png   =>   cos://93tv-1310040068/h5/img/vip_bg_1.bb37111d.png
+2023-05-24 12:41:24,321 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/empty.50a37bc0.png   =>   cos://93tv-1310040068/h5/img/empty.50a37bc0.png
+2023-05-24 12:41:24,853 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/friendsBg_02.5d9fdc30.png   =>   cos://93tv-1310040068/h5/img/friendsBg_02.5d9fdc30.png
+2023-05-24 12:41:26,200 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/home_post_1.702c04f1.png   =>   cos://93tv-1310040068/h5/img/home_post_1.702c04f1.png
+2023-05-24 12:41:26,761 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/sports-medal.ca588f78.png   =>   cos://93tv-1310040068/h5/img/sports-medal.ca588f78.png
+2023-05-24 12:41:28,967 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/zbgg.7173aa71.png   =>   cos://93tv-1310040068/h5/img/zbgg.7173aa71.png
+2023-05-24 12:41:29,089 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/friendsBg_02.9aee3dee.png   =>   cos://93tv-1310040068/h5/img/friendsBg_02.9aee3dee.png
+2023-05-24 12:41:29,091 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/buy.f0e05484.png   =>   cos://93tv-1310040068/h5/img/buy.f0e05484.png
+2023-05-24 12:41:29,593 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/match_share.923e8f39.png   =>   cos://93tv-1310040068/h5/img/match_share.923e8f39.png
+2023-05-24 12:41:30,076 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/zuqiu.3bca0ce3.png   =>   cos://93tv-1310040068/h5/img/zuqiu.3bca0ce3.png
+2023-05-24 12:41:31,944 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/noNewFriend.b374b08e.png   =>   cos://93tv-1310040068/h5/img/noNewFriend.b374b08e.png
+2023-05-24 12:41:32,388 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/down68.75f53cbf.png   =>   cos://93tv-1310040068/h5/img/down68.75f53cbf.png
+2023-05-24 12:41:33,866 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/party-popper.81919a22.png   =>   cos://93tv-1310040068/h5/img/party-popper.81919a22.png
+2023-05-24 12:41:34,333 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/vip_level_2.e277b3ad.png   =>   cos://93tv-1310040068/h5/img/vip_level_2.e277b3ad.png
+2023-05-24 12:41:35,182 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/zuqius.1812f33f.png   =>   cos://93tv-1310040068/h5/img/zuqius.1812f33f.png
+2023-05-24 12:41:37,479 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/ballLoad.21cd246f.gif   =>   cos://93tv-1310040068/h5/img/ballLoad.21cd246f.gif
+2023-05-24 12:41:37,703 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/onmsg.95d17b58.png   =>   cos://93tv-1310040068/h5/img/onmsg.95d17b58.png
+2023-05-24 12:41:48,818 - [INFO]:  162 files uploaded, 0 files skipped, 0 files failed
+2023-05-24 12:45:03,045 - [INFO]:  0 files uploaded, 162 files skipped, 0 files failed
+2023-05-24 12:46:33,383 - [ERROR]:  url:https://93tv-1310040068.cos.ap-shanghai.myqcloud.com/h5/index.html, retry_time:0 exception:HTTPSConnectionPool(host='93tv-1310040068.cos.ap-shanghai.myqcloud.com', port=443): Read timed out. (read timeout=60)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/urllib3/connectionpool.py", line 467, in _make_request
+    self._validate_conn(conn)
+  File "/usr/local/lib/python3.11/site-packages/urllib3/connectionpool.py", line 1092, in _validate_conn
+    conn.connect()
+  File "/usr/local/lib/python3.11/site-packages/urllib3/connection.py", line 635, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/urllib3/connection.py", line 774, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+               ^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/urllib3/util/ssl_.py", line 459, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/urllib3/util/ssl_.py", line 503, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/Cellar/python@3.11/3.11.3/Frameworks/Python.framework/Versions/3.11/lib/python3.11/ssl.py", line 517, in wrap_socket
+    return self.sslsocket_class._create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/Cellar/python@3.11/3.11.3/Frameworks/Python.framework/Versions/3.11/lib/python3.11/ssl.py", line 1075, in _create
+    self.do_handshake()
+  File "/usr/local/Cellar/python@3.11/3.11.3/Frameworks/Python.framework/Versions/3.11/lib/python3.11/ssl.py", line 1346, in do_handshake
+    self._sslobj.do_handshake()
+TimeoutError: _ssl.c:985: The handshake operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/requests/adapters.py", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/urllib3/connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/urllib3/util/retry.py", line 470, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/urllib3/util/util.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.11/site-packages/urllib3/connectionpool.py", line 790, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/urllib3/connectionpool.py", line 491, in _make_request
+    raise new_e
+  File "/usr/local/lib/python3.11/site-packages/urllib3/connectionpool.py", line 469, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=conn.timeout)
+  File "/usr/local/lib/python3.11/site-packages/urllib3/connectionpool.py", line 370, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='93tv-1310040068.cos.ap-shanghai.myqcloud.com', port=443): Read timed out. (read timeout=60)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/qcloud_cos/cos_client.py", line 364, in send_request
+    res = self._session.head(url, timeout=timeout, proxies=self._conf._proxies, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/requests/sessions.py", line 622, in head
+    return self.request("HEAD", url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/requests/adapters.py", line 532, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='93tv-1310040068.cos.ap-shanghai.myqcloud.com', port=443): Read timed out. (read timeout=60)
+2023-05-24 12:46:48,440 - [ERROR]:  url:https://93tv-1310040068.cos.ap-shanghai.myqcloud.com/h5/r8.ico, retry_time:0 exception:HTTPSConnectionPool(host='93tv-1310040068.cos.ap-shanghai.myqcloud.com', port=443): Read timed out. (read timeout=60)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/urllib3/connectionpool.py", line 467, in _make_request
+    self._validate_conn(conn)
+  File "/usr/local/lib/python3.11/site-packages/urllib3/connectionpool.py", line 1092, in _validate_conn
+    conn.connect()
+  File "/usr/local/lib/python3.11/site-packages/urllib3/connection.py", line 635, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/urllib3/connection.py", line 774, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+               ^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/urllib3/util/ssl_.py", line 459, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/urllib3/util/ssl_.py", line 503, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/Cellar/python@3.11/3.11.3/Frameworks/Python.framework/Versions/3.11/lib/python3.11/ssl.py", line 517, in wrap_socket
+    return self.sslsocket_class._create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/Cellar/python@3.11/3.11.3/Frameworks/Python.framework/Versions/3.11/lib/python3.11/ssl.py", line 1075, in _create
+    self.do_handshake()
+  File "/usr/local/Cellar/python@3.11/3.11.3/Frameworks/Python.framework/Versions/3.11/lib/python3.11/ssl.py", line 1346, in do_handshake
+    self._sslobj.do_handshake()
+TimeoutError: _ssl.c:985: The handshake operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/requests/adapters.py", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/urllib3/connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/urllib3/util/retry.py", line 470, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/urllib3/util/util.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.11/site-packages/urllib3/connectionpool.py", line 790, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/urllib3/connectionpool.py", line 491, in _make_request
+    raise new_e
+  File "/usr/local/lib/python3.11/site-packages/urllib3/connectionpool.py", line 469, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=conn.timeout)
+  File "/usr/local/lib/python3.11/site-packages/urllib3/connectionpool.py", line 370, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='93tv-1310040068.cos.ap-shanghai.myqcloud.com', port=443): Read timed out. (read timeout=60)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/qcloud_cos/cos_client.py", line 364, in send_request
+    res = self._session.head(url, timeout=timeout, proxies=self._conf._proxies, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/requests/sessions.py", line 622, in head
+    return self.request("HEAD", url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/requests/adapters.py", line 532, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='93tv-1310040068.cos.ap-shanghai.myqcloud.com', port=443): Read timed out. (read timeout=60)
+2023-05-24 12:47:00,019 - [INFO]:  0 files uploaded, 162 files skipped, 0 files failed
+2023-05-24 12:50:19,944 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/wq.ico   =>   cos://93tv-1310040068/h5/wq.ico
+2023-05-24 12:50:19,971 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/r8.ico   =>   cos://93tv-1310040068/h5/r8.ico
+2023-05-24 12:50:21,502 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/hot.ico   =>   cos://93tv-1310040068/h5/hot.ico
+2023-05-24 12:50:21,579 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/th.ico   =>   cos://93tv-1310040068/h5/th.ico
+2023-05-24 12:50:21,859 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/93.ico   =>   cos://93tv-1310040068/h5/93.ico
+2023-05-24 12:50:22,649 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/btv.ico   =>   cos://93tv-1310040068/h5/btv.ico
+2023-05-24 12:50:22,651 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/bs.ico   =>   cos://93tv-1310040068/h5/bs.ico
+2023-05-24 12:50:23,196 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/tq.ico   =>   cos://93tv-1310040068/h5/tq.ico
+2023-05-24 12:50:24,134 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/manifest.json   =>   cos://93tv-1310040068/h5/manifest.json
+2023-05-24 12:50:24,761 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/f7.ico   =>   cos://93tv-1310040068/h5/f7.ico
+2023-05-24 12:50:24,966 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/lq.ico   =>   cos://93tv-1310040068/h5/lq.ico
+2023-05-24 12:50:25,396 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-6afa66bb.1aa19492.css   =>   cos://93tv-1310040068/h5/css/chunk-6afa66bb.1aa19492.css
+2023-05-24 12:50:25,584 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/kw.ico   =>   cos://93tv-1310040068/h5/kw.ico
+2023-05-24 12:50:25,664 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-41e161b4.85440146.css   =>   cos://93tv-1310040068/h5/css/chunk-41e161b4.85440146.css
+2023-05-24 12:50:26,012 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-7eace207.8427bf79.css   =>   cos://93tv-1310040068/h5/css/chunk-7eace207.8427bf79.css
+2023-05-24 12:50:26,590 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-a2af3736.776d77d4.css   =>   cos://93tv-1310040068/h5/css/chunk-a2af3736.776d77d4.css
+2023-05-24 12:50:27,144 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-47929a14.bb90b10f.css   =>   cos://93tv-1310040068/h5/css/chunk-47929a14.bb90b10f.css
+2023-05-24 12:50:27,212 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-415ff868.9d47ee5d.css   =>   cos://93tv-1310040068/h5/css/chunk-415ff868.9d47ee5d.css
+2023-05-24 12:50:27,332 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-f99aa068.03bf2e3b.css   =>   cos://93tv-1310040068/h5/css/chunk-f99aa068.03bf2e3b.css
+2023-05-24 12:50:27,783 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-4127adfe.95cb2214.css   =>   cos://93tv-1310040068/h5/css/chunk-4127adfe.95cb2214.css
+2023-05-24 12:50:28,066 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-f8e19016.9af9e433.css   =>   cos://93tv-1310040068/h5/css/chunk-f8e19016.9af9e433.css
+2023-05-24 12:50:28,290 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-29ae58bd.a51821c5.css   =>   cos://93tv-1310040068/h5/css/chunk-29ae58bd.a51821c5.css
+2023-05-24 12:50:28,691 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-2003dd8c.3e037c8c.css   =>   cos://93tv-1310040068/h5/css/chunk-2003dd8c.3e037c8c.css
+2023-05-24 12:50:28,904 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-099b9546.e5a9006a.css   =>   cos://93tv-1310040068/h5/css/chunk-099b9546.e5a9006a.css
+2023-05-24 12:50:29,075 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-4196c407.cb24aab1.css   =>   cos://93tv-1310040068/h5/css/chunk-4196c407.cb24aab1.css
+2023-05-24 12:50:29,396 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-96f334e0.eacd2b32.css   =>   cos://93tv-1310040068/h5/css/chunk-96f334e0.eacd2b32.css
+2023-05-24 12:50:29,539 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/app.cc446be5.css   =>   cos://93tv-1310040068/h5/css/app.cc446be5.css
+2023-05-24 12:50:29,727 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-1ed81d4c.c4f80ad2.css   =>   cos://93tv-1310040068/h5/css/chunk-1ed81d4c.c4f80ad2.css
+2023-05-24 12:50:30,004 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-322e4132.1f4643a1.css   =>   cos://93tv-1310040068/h5/css/chunk-322e4132.1f4643a1.css
+2023-05-24 12:50:30,339 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-11d0a1cf.031b9790.css   =>   cos://93tv-1310040068/h5/css/chunk-11d0a1cf.031b9790.css
+2023-05-24 12:50:30,567 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-318188a8.6b3a4494.css   =>   cos://93tv-1310040068/h5/css/chunk-318188a8.6b3a4494.css
+2023-05-24 12:50:30,971 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-74ac859c.9dcea575.css   =>   cos://93tv-1310040068/h5/css/chunk-74ac859c.9dcea575.css
+2023-05-24 12:50:31,214 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-344b12f8.9db6d9de.css   =>   cos://93tv-1310040068/h5/css/chunk-344b12f8.9db6d9de.css
+2023-05-24 12:50:31,254 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-38281ebc.6b64fb16.css   =>   cos://93tv-1310040068/h5/css/chunk-38281ebc.6b64fb16.css
+2023-05-24 12:50:31,439 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-01835693.50620329.css   =>   cos://93tv-1310040068/h5/css/chunk-01835693.50620329.css
+2023-05-24 12:50:32,391 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/index.html   =>   cos://93tv-1310040068/h5/index.html
+2023-05-24 12:50:32,399 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-9d83ab72.13d2254c.css   =>   cos://93tv-1310040068/h5/css/chunk-9d83ab72.13d2254c.css
+2023-05-24 12:50:32,559 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-394c9b17.de70ab1a.css   =>   cos://93tv-1310040068/h5/css/chunk-394c9b17.de70ab1a.css
+2023-05-24 12:50:32,998 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-e01bf61a.b3e3795e.css   =>   cos://93tv-1310040068/h5/css/chunk-e01bf61a.b3e3795e.css
+2023-05-24 12:50:33,286 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-491a4002.a57379db.css   =>   cos://93tv-1310040068/h5/css/chunk-491a4002.a57379db.css
+2023-05-24 12:50:33,363 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-161b22fd.9c9a4828.css   =>   cos://93tv-1310040068/h5/css/chunk-161b22fd.9c9a4828.css
+2023-05-24 12:50:33,621 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-6566ec0f.1df92780.css   =>   cos://93tv-1310040068/h5/css/chunk-6566ec0f.1df92780.css
+2023-05-24 12:50:33,928 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-vendors.4a334506.css   =>   cos://93tv-1310040068/h5/css/chunk-vendors.4a334506.css
+2023-05-24 12:50:33,972 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-0e241a18.aff40d3d.css   =>   cos://93tv-1310040068/h5/css/chunk-0e241a18.aff40d3d.css
+2023-05-24 12:50:34,547 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-cc71aac2.32307012.css   =>   cos://93tv-1310040068/h5/css/chunk-cc71aac2.32307012.css
+2023-05-24 12:50:34,793 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-0db1ab76.a1a292d6.css   =>   cos://93tv-1310040068/h5/css/chunk-0db1ab76.a1a292d6.css
+2023-05-24 12:50:35,172 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-c76aa8aa.6ed18704.css   =>   cos://93tv-1310040068/h5/css/chunk-c76aa8aa.6ed18704.css
+2023-05-24 12:50:35,396 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-6cdc2fa2.cea27539.css   =>   cos://93tv-1310040068/h5/css/chunk-6cdc2fa2.cea27539.css
+2023-05-24 12:50:36,017 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-27073b87.a7c2f5e5.css   =>   cos://93tv-1310040068/h5/css/chunk-27073b87.a7c2f5e5.css
+2023-05-24 12:50:36,031 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-4684a8a2.06a258b9.css   =>   cos://93tv-1310040068/h5/css/chunk-4684a8a2.06a258b9.css
+2023-05-24 12:50:36,722 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-919b3134.e7d0d5d1.css   =>   cos://93tv-1310040068/h5/css/chunk-919b3134.e7d0d5d1.css
+2023-05-24 12:50:36,737 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-6f99d317.0121c6a1.css   =>   cos://93tv-1310040068/h5/css/chunk-6f99d317.0121c6a1.css
+2023-05-24 12:50:36,866 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-167b0ef3.8b09d1d1.css   =>   cos://93tv-1310040068/h5/css/chunk-167b0ef3.8b09d1d1.css
+2023-05-24 12:50:36,947 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-98c33168.c52d75d0.css   =>   cos://93tv-1310040068/h5/css/chunk-98c33168.c52d75d0.css
+2023-05-24 12:50:36,996 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-105680fa.71bd3cfe.css   =>   cos://93tv-1310040068/h5/css/chunk-105680fa.71bd3cfe.css
+2023-05-24 12:50:37,566 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-1387413f.dbf01fc3.css   =>   cos://93tv-1310040068/h5/css/chunk-1387413f.dbf01fc3.css
+2023-05-24 12:50:37,567 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-3fc7b7dd.26be7584.css   =>   cos://93tv-1310040068/h5/css/chunk-3fc7b7dd.26be7584.css
+2023-05-24 12:50:37,643 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/css/chunk-7c5bbc3a.b25ff8c0.css   =>   cos://93tv-1310040068/h5/css/chunk-7c5bbc3a.b25ff8c0.css
+2023-05-24 12:50:37,706 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-41e161b4.ecbc5193.js   =>   cos://93tv-1310040068/h5/js/chunk-41e161b4.ecbc5193.js
+2023-05-24 12:50:38,706 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-6afa66bb.3e8a0d8d.js   =>   cos://93tv-1310040068/h5/js/chunk-6afa66bb.3e8a0d8d.js
+2023-05-24 12:50:38,833 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-38281ebc.ecd76064.js   =>   cos://93tv-1310040068/h5/js/chunk-38281ebc.ecd76064.js
+2023-05-24 12:50:39,099 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-53e50c68.2a74ae83.js   =>   cos://93tv-1310040068/h5/js/chunk-53e50c68.2a74ae83.js
+2023-05-24 12:50:39,171 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-e01bf61a.d227dfaf.js   =>   cos://93tv-1310040068/h5/js/chunk-e01bf61a.d227dfaf.js
+2023-05-24 12:50:39,230 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/app.d840b18a.js   =>   cos://93tv-1310040068/h5/js/app.d840b18a.js
+2023-05-24 12:50:39,465 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-98c33168.8b54e38d.js   =>   cos://93tv-1310040068/h5/js/chunk-98c33168.8b54e38d.js
+2023-05-24 12:50:39,656 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-344b12f8.c2cd9e0e.js   =>   cos://93tv-1310040068/h5/js/chunk-344b12f8.c2cd9e0e.js
+2023-05-24 12:50:40,787 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-105680fa.3ed16431.js   =>   cos://93tv-1310040068/h5/js/chunk-105680fa.3ed16431.js
+2023-05-24 12:50:41,276 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-3fc7b7dd.7ea63b12.js   =>   cos://93tv-1310040068/h5/js/chunk-3fc7b7dd.7ea63b12.js
+2023-05-24 12:50:41,549 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-1ed81d4c.d2ac9033.js   =>   cos://93tv-1310040068/h5/js/chunk-1ed81d4c.d2ac9033.js
+2023-05-24 12:50:41,739 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-1387413f.c23abb53.js   =>   cos://93tv-1310040068/h5/js/chunk-1387413f.c23abb53.js
+2023-05-24 12:50:42,443 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-0db1ab76.63c23447.js   =>   cos://93tv-1310040068/h5/js/chunk-0db1ab76.63c23447.js
+2023-05-24 12:50:42,743 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-415ff868.94519464.js   =>   cos://93tv-1310040068/h5/js/chunk-415ff868.94519464.js
+2023-05-24 12:50:42,939 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-11d0a1cf.70f38144.js   =>   cos://93tv-1310040068/h5/js/chunk-11d0a1cf.70f38144.js
+2023-05-24 12:50:43,414 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-0e241a18.6267782a.js   =>   cos://93tv-1310040068/h5/js/chunk-0e241a18.6267782a.js
+2023-05-24 12:50:43,735 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-vendors.dbe1b247.js   =>   cos://93tv-1310040068/h5/js/chunk-vendors.dbe1b247.js
+2023-05-24 12:50:43,756 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-f8e19016.cd05c069.js   =>   cos://93tv-1310040068/h5/js/chunk-f8e19016.cd05c069.js
+2023-05-24 12:50:43,828 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-7c5bbc3a.62cfa56e.js   =>   cos://93tv-1310040068/h5/js/chunk-7c5bbc3a.62cfa56e.js
+2023-05-24 12:50:44,030 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-394c9b17.209d8f62.js   =>   cos://93tv-1310040068/h5/js/chunk-394c9b17.209d8f62.js
+2023-05-24 12:50:44,316 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-6cdc2fa2.f91ed315.js   =>   cos://93tv-1310040068/h5/js/chunk-6cdc2fa2.f91ed315.js
+2023-05-24 12:50:44,846 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-161b22fd.26317c24.js   =>   cos://93tv-1310040068/h5/js/chunk-161b22fd.26317c24.js
+2023-05-24 12:50:45,484 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-4127adfe.71893fad.js   =>   cos://93tv-1310040068/h5/js/chunk-4127adfe.71893fad.js
+2023-05-24 12:50:45,657 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-f99aa068.ca4ad78c.js   =>   cos://93tv-1310040068/h5/js/chunk-f99aa068.ca4ad78c.js
+2023-05-24 12:50:45,806 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-6566ec0f.0f4d6fd1.js   =>   cos://93tv-1310040068/h5/js/chunk-6566ec0f.0f4d6fd1.js
+2023-05-24 12:50:46,102 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-318188a8.00c4f40d.js   =>   cos://93tv-1310040068/h5/js/chunk-318188a8.00c4f40d.js
+2023-05-24 12:50:46,306 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-2003dd8c.a495f180.js   =>   cos://93tv-1310040068/h5/js/chunk-2003dd8c.a495f180.js
+2023-05-24 12:50:46,767 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-099b9546.01b6d7f7.js   =>   cos://93tv-1310040068/h5/js/chunk-099b9546.01b6d7f7.js
+2023-05-24 12:50:47,187 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-7eace207.03b75b9f.js   =>   cos://93tv-1310040068/h5/js/chunk-7eace207.03b75b9f.js
+2023-05-24 12:50:47,732 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-01835693.9fdf6c60.js   =>   cos://93tv-1310040068/h5/js/chunk-01835693.9fdf6c60.js
+2023-05-24 12:50:48,137 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-27073b87.79b38161.js   =>   cos://93tv-1310040068/h5/js/chunk-27073b87.79b38161.js
+2023-05-24 12:50:48,352 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-96f334e0.b839fdbb.js   =>   cos://93tv-1310040068/h5/js/chunk-96f334e0.b839fdbb.js
+2023-05-24 12:50:48,754 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-167b0ef3.c14d242d.js   =>   cos://93tv-1310040068/h5/js/chunk-167b0ef3.c14d242d.js
+2023-05-24 12:50:48,996 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-322e4132.021ac210.js   =>   cos://93tv-1310040068/h5/js/chunk-322e4132.021ac210.js
+2023-05-24 12:50:49,622 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-4196c407.79940647.js   =>   cos://93tv-1310040068/h5/js/chunk-4196c407.79940647.js
+2023-05-24 12:50:49,813 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-919b3134.d3df4c06.js   =>   cos://93tv-1310040068/h5/js/chunk-919b3134.d3df4c06.js
+2023-05-24 12:50:50,152 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-4684a8a2.4f4be5e3.js   =>   cos://93tv-1310040068/h5/js/chunk-4684a8a2.4f4be5e3.js
+2023-05-24 12:50:50,331 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-74ac859c.90b17f62.js   =>   cos://93tv-1310040068/h5/js/chunk-74ac859c.90b17f62.js
+2023-05-24 12:50:50,415 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-6f99d317.964510a3.js   =>   cos://93tv-1310040068/h5/js/chunk-6f99d317.964510a3.js
+2023-05-24 12:50:50,934 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-cc71aac2.8d9bec2e.js   =>   cos://93tv-1310040068/h5/js/chunk-cc71aac2.8d9bec2e.js
+2023-05-24 12:50:52,112 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-29ae58bd.b5d2b970.js   =>   cos://93tv-1310040068/h5/js/chunk-29ae58bd.b5d2b970.js
+2023-05-24 12:50:52,142 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-491a4002.bd2a3e72.js   =>   cos://93tv-1310040068/h5/js/chunk-491a4002.bd2a3e72.js
+2023-05-24 12:50:52,324 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-47929a14.1941b8a8.js   =>   cos://93tv-1310040068/h5/js/chunk-47929a14.1941b8a8.js
+2023-05-24 12:50:53,908 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-9d83ab72.c2083760.js   =>   cos://93tv-1310040068/h5/js/chunk-9d83ab72.c2083760.js
+2023-05-24 12:50:53,951 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-a2af3736.1399d3d8.js   =>   cos://93tv-1310040068/h5/js/chunk-a2af3736.1399d3d8.js
+2023-05-24 12:50:54,518 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/js/chunk-c76aa8aa.75bd5eae.js   =>   cos://93tv-1310040068/h5/js/chunk-c76aa8aa.75bd5eae.js
+2023-05-24 12:50:54,917 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/vip_bg_5.bea94313.png   =>   cos://93tv-1310040068/h5/img/vip_bg_5.bea94313.png
+2023-05-24 12:50:55,159 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/nomatch.9623b3d9.png   =>   cos://93tv-1310040068/h5/img/nomatch.9623b3d9.png
+2023-05-24 12:50:56,183 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/aegis.4a8c0f95.gif   =>   cos://93tv-1310040068/h5/img/aegis.4a8c0f95.gif
+2023-05-24 12:50:56,742 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/ic_football_formation_cloth_home.51796376.png   =>   cos://93tv-1310040068/h5/img/ic_football_formation_cloth_home.51796376.png
+2023-05-24 12:50:57,144 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/avatar_sel.92deaaf3.png   =>   cos://93tv-1310040068/h5/img/avatar_sel.92deaaf3.png
+2023-05-24 12:50:57,753 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/lanqius.7de6e6bf.png   =>   cos://93tv-1310040068/h5/img/lanqius.7de6e6bf.png
+2023-05-24 12:50:57,973 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/vip_level_1.a91b1124.png   =>   cos://93tv-1310040068/h5/img/vip_level_1.a91b1124.png
+2023-05-24 12:50:58,202 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/live-gif.94c113fa.gif   =>   cos://93tv-1310040068/h5/img/live-gif.94c113fa.gif
+2023-05-24 12:50:59,132 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/ic_football_formation_cloth_away.55c5e50c.png   =>   cos://93tv-1310040068/h5/img/ic_football_formation_cloth_away.55c5e50c.png
+2023-05-24 12:50:59,373 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/home_post_2.713bb506.png   =>   cos://93tv-1310040068/h5/img/home_post_2.713bb506.png
+2023-05-24 12:50:59,833 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/subzbbg_02.8e747d31.png   =>   cos://93tv-1310040068/h5/img/subzbbg_02.8e747d31.png
+2023-05-24 12:51:00,012 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/home_gif_mp4.2b0d1468.gif   =>   cos://93tv-1310040068/h5/img/home_gif_mp4.2b0d1468.gif
+2023-05-24 12:51:00,794 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/zanwupinglun@3x.8cf81eeb.png   =>   cos://93tv-1310040068/h5/img/zanwupinglun@3x.8cf81eeb.png
+2023-05-24 12:51:01,002 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/subzbbg_01.0395b187.png   =>   cos://93tv-1310040068/h5/img/subzbbg_01.0395b187.png
+2023-05-24 12:51:03,292 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/loginbg.47331af6.png   =>   cos://93tv-1310040068/h5/img/loginbg.47331af6.png
+2023-05-24 12:51:03,867 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/download.fc838e9f.png   =>   cos://93tv-1310040068/h5/img/download.fc838e9f.png
+2023-05-24 12:51:07,302 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/vip_level_5.95a7f0a1.png   =>   cos://93tv-1310040068/h5/img/vip_level_5.95a7f0a1.png
+2023-05-24 12:51:07,407 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/nighttips.65e3fbda.png   =>   cos://93tv-1310040068/h5/img/nighttips.65e3fbda.png
+2023-05-24 12:51:08,171 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/download_btn.b6e134a9.png   =>   cos://93tv-1310040068/h5/img/download_btn.b6e134a9.png
+2023-05-24 12:51:08,264 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/plany_rb_bg.720de5d6.png   =>   cos://93tv-1310040068/h5/img/plany_rb_bg.720de5d6.png
+2023-05-24 12:51:08,397 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/play_bt.59291766.png   =>   cos://93tv-1310040068/h5/img/play_bt.59291766.png
+2023-05-24 12:51:08,831 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/home-ad-btn.29278b26.png   =>   cos://93tv-1310040068/h5/img/home-ad-btn.29278b26.png
+2023-05-24 12:51:09,358 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/vip_level_3.bd0112e1.png   =>   cos://93tv-1310040068/h5/img/vip_level_3.bd0112e1.png
+2023-05-24 12:51:10,340 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/basketball_gif.7dab2e2c.gif   =>   cos://93tv-1310040068/h5/img/basketball_gif.7dab2e2c.gif
+2023-05-24 12:51:11,307 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/img_football_formation.895ec71f.png   =>   cos://93tv-1310040068/h5/img/img_football_formation.895ec71f.png
+2023-05-24 12:51:11,383 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/home-ad-box.68a5ac77.png   =>   cos://93tv-1310040068/h5/img/home-ad-box.68a5ac77.png
+2023-05-24 12:51:11,503 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/nofriendbg.fae36b73.png   =>   cos://93tv-1310040068/h5/img/nofriendbg.fae36b73.png
+2023-05-24 12:51:12,664 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/downApp.68199c40.png   =>   cos://93tv-1310040068/h5/img/downApp.68199c40.png
+2023-05-24 12:51:12,889 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/login_bg.d196c77d.png   =>   cos://93tv-1310040068/h5/img/login_bg.d196c77d.png
+2023-05-24 12:51:13,469 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/home_gif_nolive.32d89c68.gif   =>   cos://93tv-1310040068/h5/img/home_gif_nolive.32d89c68.gif
+2023-05-24 12:51:13,555 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/home_gif_live.00c9b005.gif   =>   cos://93tv-1310040068/h5/img/home_gif_live.00c9b005.gif
+2023-05-24 12:51:13,703 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/vip_level_4.5b5abe39.png   =>   cos://93tv-1310040068/h5/img/vip_level_4.5b5abe39.png
+2023-05-24 12:51:15,148 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/vip_bg_3.fb82a4ed.png   =>   cos://93tv-1310040068/h5/img/vip_bg_3.fb82a4ed.png
+2023-05-24 12:51:16,091 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/taskbtn.2e409a31.png   =>   cos://93tv-1310040068/h5/img/taskbtn.2e409a31.png
+2023-05-24 12:51:16,163 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/roomBg.aaa5fe9e.png   =>   cos://93tv-1310040068/h5/img/roomBg.aaa5fe9e.png
+2023-05-24 12:51:17,955 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/exchange_succes.7fcc8e7b.png   =>   cos://93tv-1310040068/h5/img/exchange_succes.7fcc8e7b.png
+2023-05-24 12:51:17,978 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/friendsBg_01.e01dcc6c.png   =>   cos://93tv-1310040068/h5/img/friendsBg_01.e01dcc6c.png
+2023-05-24 12:51:19,061 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/share.2b057f25.png   =>   cos://93tv-1310040068/h5/img/share.2b057f25.png
+2023-05-24 12:51:19,351 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/change_line.7d0f46d5.png   =>   cos://93tv-1310040068/h5/img/change_line.7d0f46d5.png
+2023-05-24 12:51:19,355 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/guanfangtuijian.84f9b2d1.png   =>   cos://93tv-1310040068/h5/img/guanfangtuijian.84f9b2d1.png
+2023-05-24 12:51:20,192 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/vip_bg_1.bb37111d.png   =>   cos://93tv-1310040068/h5/img/vip_bg_1.bb37111d.png
+2023-05-24 12:51:20,267 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/empty.50a37bc0.png   =>   cos://93tv-1310040068/h5/img/empty.50a37bc0.png
+2023-05-24 12:51:21,080 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/friendsBg_02.5d9fdc30.png   =>   cos://93tv-1310040068/h5/img/friendsBg_02.5d9fdc30.png
+2023-05-24 12:51:22,345 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/home_post_1.702c04f1.png   =>   cos://93tv-1310040068/h5/img/home_post_1.702c04f1.png
+2023-05-24 12:51:22,864 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/sports-medal.ca588f78.png   =>   cos://93tv-1310040068/h5/img/sports-medal.ca588f78.png
+2023-05-24 12:51:23,942 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/match_share.923e8f39.png   =>   cos://93tv-1310040068/h5/img/match_share.923e8f39.png
+2023-05-24 12:51:24,308 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/friendsBg_02.9aee3dee.png   =>   cos://93tv-1310040068/h5/img/friendsBg_02.9aee3dee.png
+2023-05-24 12:51:26,109 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/zbgg.7173aa71.png   =>   cos://93tv-1310040068/h5/img/zbgg.7173aa71.png
+2023-05-24 12:51:26,611 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/buy.f0e05484.png   =>   cos://93tv-1310040068/h5/img/buy.f0e05484.png
+2023-05-24 12:51:26,975 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/zuqiu.3bca0ce3.png   =>   cos://93tv-1310040068/h5/img/zuqiu.3bca0ce3.png
+2023-05-24 12:51:27,789 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/down68.75f53cbf.png   =>   cos://93tv-1310040068/h5/img/down68.75f53cbf.png
+2023-05-24 12:51:27,894 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/football_gif.c3255505.gif   =>   cos://93tv-1310040068/h5/img/football_gif.c3255505.gif
+2023-05-24 12:51:28,386 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/noNewFriend.b374b08e.png   =>   cos://93tv-1310040068/h5/img/noNewFriend.b374b08e.png
+2023-05-24 12:51:29,064 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/party-popper.81919a22.png   =>   cos://93tv-1310040068/h5/img/party-popper.81919a22.png
+2023-05-24 12:51:29,941 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/vip_level_2.e277b3ad.png   =>   cos://93tv-1310040068/h5/img/vip_level_2.e277b3ad.png
+2023-05-24 12:51:30,951 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/onmsg.95d17b58.png   =>   cos://93tv-1310040068/h5/img/onmsg.95d17b58.png
+2023-05-24 12:51:31,279 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/zuqius.1812f33f.png   =>   cos://93tv-1310040068/h5/img/zuqius.1812f33f.png
+2023-05-24 12:51:31,408 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/img/ballLoad.21cd246f.gif   =>   cos://93tv-1310040068/h5/img/ballLoad.21cd246f.gif
+2023-05-24 12:51:32,585 - [INFO]:  162 files uploaded, 0 files skipped, 0 files failed
+2023-05-24 12:53:04,353 - [INFO]:  exiting
+2023-05-29 10:58:32,006 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/wq.ico   =>   cos://93tv-1310040068/h5/wq.ico
+2023-05-29 10:58:32,006 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/r8.ico   =>   cos://93tv-1310040068/h5/r8.ico
+2023-05-29 10:58:32,006 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/btv.ico   =>   cos://93tv-1310040068/h5/btv.ico
+2023-05-29 10:58:32,006 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/index.html   =>   cos://93tv-1310040068/h5/index.html
+2023-05-29 10:58:32,007 - [INFO]:  Upload /Users/steven/Desktop/command/COSCMD/93/dist/hot.ico   =>   cos://93tv-1310040068/h5/hot.ico
