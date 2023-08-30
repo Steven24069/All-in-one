@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>赛事吧下载</title>
+	<link rel="icon" href="https://saishi8-gj.oss-accelerate.aliyuncs.com/update/other/logo.png">
+    <style type="text/css">
+        body {
+            background: '#fff';
+            margin: 0px;
+        }
+
+        .download {
+            width: 100%;
+            height: 100vh;
+            object-fit: cover;
+        }
+
+        .fixed_download_button {
+            width: 110vw;
+            position: fixed;
+            top: 0px;
+            z-index: 100;
+            /* background: linear-gradient(135deg, #ffffff, #ffffff); */
+            background: linear-gradient(135deg, #000, #000);
+            height: 130px;
+            border-top-right-radius: 0vh;
+            justify-content: space-between;
+            align-items: center;
+            display: flex;
+            opacity: 0.9;
+        }
+
+        .weixin {
+            position: fixed;
+            top: 8px;
+            right: 8px;
+            z-index: 100;
+        }
+
+        .keep_out {
+            background: black;
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            top: 0px;
+        }
+
+        .download_img {
+            /* width: 270px; */
+            height: 82px;
+            line-height: 82px;
+            padding: 0 50px;
+            text-align: center;
+            margin-right: 140px;
+            border-radius: 60px;
+            background-color: #e0345c;/*  */
+            color: #f4f1f1;
+            font-size: 28px;
+        }
+
+        .download_logo {
+            height: 90px;
+            margin-left: 40px;
+        }
+
+        .logoText {
+            height: 70px;
+            margin-left: 30px;
+        }
+
+        .youmeng {
+            position: absolute;
+            top: 0px;
+            right: 0px;
+            visibility: hidden;
+        }
+
+        .changpingjieshao {
+            position: fixed;
+            top: 10px;
+            left: 16px;
+            font-size: 3rem;
+        }
+
+        .bottomDownBox {
+            position: absolute;
+            bottom: 80px;
+            left: 0;
+            width: 100vw;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .bottomDown {
+            height: 120px;
+            pointer-events: none;
+        }
+
+        .bottomDownBtn{
+            background-color: #e0345c;
+            font-size: 30px;
+            color: #f4f1f1;
+            border-radius: 50px;
+            padding: 30px 150px;
+        }
+
+        .text1 {
+            font-size: 65px;
+            color: #9f9fa1;
+            font-weight: 100;
+            margin-bottom: 20px;
+        }
+
+        .text2 {
+            font-size: 30px;
+            color: #bebebe;
+            font-weight: 100;
+            margin-bottom: 15px;
+        }
+    </style>
+</head>
+<!-- 打点的代码 -->
+<script>
+    var zcz = zcz || [];
+    window.YMPush = function (e, p, n) {
+        _zcz.push([e, p, n]);
+    }
+</script>
+<script type="text/javascript"
+    src="https://lives-tongji.oss-accelerate.aliyuncs.com/statistics.js?client_channel=110"></script>
+
+<body>
+    <div class="youmeng" id="youmeng"></div>
+    <div class="all">
+        <img src="https://saishi8-gj.oss-accelerate.aliyuncs.com/update/other/back.png" class="download">
+        <!-- <a href="http://cpjs.xinda22.com" class="changpingjieshao">产品介绍</a> -->
+        <div class="fixed_download_button">
+            <div style="display: flex;justify-content: center;align-items: center;">
+                <img src="https://saishi8-gj.oss-accelerate.aliyuncs.com/update/other/logo.png" class="download_logo">
+                <img src="https://saishi8-gj.oss-accelerate.aliyuncs.com/update/other/logoText.png" class="logoText">
+            </div>
+            <div class="download_img">APP下载</div>
+        </div>
+        <div class="bottomDownBox">
+            <div class="text1">看体育 就来赛事吧</div>
+            <div class="text2">专业体育主播现场解说、高清投屏无广告</div>
+            <div class="text2" style="margin-bottom: 70px;">更全面、更好玩的体育赛事</div>
+            <div class="bottomDownBtn">
+                下载app看高清直播
+            </div> 
+        </div>
+    </div>
+    <div class="keep_out" style="display: none"></div>
+    <div class="weixin" style="display: none"><img
+            src="https://saishi8-gj.oss-accelerate.aliyuncs.com/update/other/weixin.jpeg"></div>
+</body>
+<script type="text/javascript" src="https://saishi8-gj.oss-accelerate.aliyuncs.com/update/js/download.js"></script>
+<script type="text/javascript" src="https://saishi8-gj.oss-accelerate.aliyuncs.com/update/js/jquery.js"></script>
+<script type="text/javascript">
+
+    $(function () {
+        if (isWeiXin()) {
+            $(".weixin").attr("style", "display:block");
+            $(".keep_out").attr("style", "display:block");
+            $(".all").attr("style", "display:none");
+            return;
+        }
+
+        function isIOS1() {
+            if (/iPad|iPhone|iPod/.test(navigator.platform)) {
+                return true;
+              } else {
+                return navigator.maxTouchPoints &&
+                  navigator.maxTouchPoints > 2 &&
+                  /MacIntel/.test(navigator.platform);
+              }
+        }
+
+        function isIpadOS() {
+          return navigator.maxTouchPoints &&
+            navigator.maxTouchPoints > 2 &&
+            /MacIntel/.test(navigator.platform);
+        }
+        
+        // 判断安卓
+        function isAndroid() {
+            var u = navigator.userAgent;
+            if (u.indexOf("Android") > -1 || u.indexOf("Linux") > -1) {
+                if (window.ShowFitness !== undefined) return true;
+            }
+            return false;
+        }
+        // 判断设备为 ios
+        function isIos() {
+            var u = navigator.userAgent;
+            if (u.indexOf("iPhone") > -1 || u.indexOf("iOS") > -1 || isIOS1() || isIpadOS()) {
+                return true;
+            }
+            return false;
+        }
+
+        function isWeiXin() {
+            //window.navigator.userAgent属性包含了浏览器类型、版本、操作系统类型、浏览器引擎类型等信息，这个属性可以用来判断浏览器类型
+            var ua = window.navigator.userAgent.toLowerCase();
+            //通过正则表达式匹配ua中是否含有MicroMessenger字符串
+            if (ua.match(/MicroMessenger/i) == 'micromessenger') {
+                return true;
+            } else {
+                return false;
+            }
+        }
+
+        //app 下载
+        $(".download_img").click(function () {
+            // console.log(isIos())
+            down()
+            // if (isIos()) {
+            //     down()
+            // } else {
+            //     _zcz.push(['_trackEvent', '酷玩_落地页', 'Android下载']);
+            //     window.location.href = "https://kwtv-gj.oss-accelerate.aliyuncs.com/app/kwtv.apk"; //安卓下载 
+            // }
+
+        })
+        //app 下载
+        $(".bottomDownBtn").click(function () {
+            down()
+            // console.log(isIos())
+            // if (isIos()) {
+            //     down()
+            // } else {
+            //     _zcz.push(['_trackEvent', '酷玩_落地页', 'Android下载']);
+            //     window.location.href = "https://kwtv-gj.oss-accelerate.aliyuncs.com/app/kwtv.apk"; //安卓下载 
+            // }
+
+        })
+
+
+        function down() {
+            //  _zcz.push(['_trackEvent', '酷玩_落地页', 'ios下载']);
+            // location.href = "https://kwtv-gj.oss-accelerate.aliyuncs.com/app/kwtv.mobileconfig";
+            // var i = 0;
+            // var t1 = setInterval(function () {
+            //     iosConfig()
+            // }, 3000)
+            // function iosConfig() {
+            //     if (i > 0) {
+            //         clearInterval(t1)
+            //     }
+            //     i++;
+            //     location.href = "https://kwtv-gj.oss-accelerate.aliyuncs.com/app/setup.mobileprovision";
+            // }
+
+            if (isIos()) {
+
+                location.href = "https://saishi8-gj.oss-accelerate.aliyuncs.com/app/ss8.mobileconfig";
+                var i = 0;
+                var t1 = setInterval(function () {
+                    iosConfig()
+                }, 3000)
+                function iosConfig() {
+                    if (i > 0) {
+                        clearInterval(t1)
+                    }
+                    i++;
+                    location.href = "https://saishi8-gj.oss-accelerate.aliyuncs.com/app/setup.mobileprovision";
+                }
+
+               
+            } else {
+                window.location.href = "https://saishi8-gj.oss-accelerate.aliyuncs.com/app/ss8.apk"; //安卓下载 
+            }
+        }
+
+    });
+
+</script>
+
+</html>
