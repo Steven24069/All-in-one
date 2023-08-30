@@ -1,0 +1,16 @@
+Python 2.7.5
+
+
+
+#安装 COSCMD
+wget https://bootstrap.pypa.io/pip/2.7/get-pip.py
+python get-pip.py
+pip -V
+
+pip install coscmd
+
+pip install coscmd -U
+
+
+#安装OSSUTIL
+sudo -v ; curl https://gosspublic.alicdn.com/ossutil/install.sh | sudo bash

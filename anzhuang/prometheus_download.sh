@@ -68,3 +68,4 @@ systemctl daemon-reload
 systemctl start prometheus
 systemctl status prometheus
 systemctl enable prometheus
+systemctl restart prometheus
