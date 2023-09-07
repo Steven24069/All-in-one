@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Quản lý Domain</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+    }
+
+    .container {
+        display: flex;
+    }
+
+    .sidebar {
+        flex: 1;
+        background-color: #f1f1f1;
+        padding: 20px;
+    }
+
+    .main-content {
+        flex: 5;
+        padding: 20px;
+    }
+
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    th, td {
+        border: 1px solid #ddd;
+        text-align: left;
+        padding: 8px;
+    }
+
+    th {
+        background-color: #f2f2f2;
+    }
+
+    tr:hover {
+        background-color: #f5f5f5;
+    }
+
+    /* CSS cho khung nhập thông tin */
+    .popup-overlay {
+        position: fixed;
+        top: 50%; /* Đặt top ở giữa màn hình */
+        left: 50%; /* Đặt left ở giữa màn hình */
+        transform: translate(-50%, -50%); /* Dịch chuyển khung để nó giữa màn hình */
+        background-color: rgba(0, 0, 0, 0.7); /* Làm mờ phần nội dung phía sau */
+        display: none;
+        justify-content: center;
+        align-items: center;
+        z-index: 999; /* Đảm bảo nằm trên cùng */
+    }
+
+    .popup-content {
+        background-color: white;
+        padding: 20px;
+        border-radius: 5px;
+        box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);
+    }
+
+    /* CSS cho nút Hủy */
+    .cancel-button {
+        background-color: #f44336;
+        color: white;
+        border: none;
+        padding: 5px 10px;
+        border-radius: 5px;
+        cursor: pointer;
+        margin-right: 10px;
+    }
+
+    /* CSS cho nút đóng (nút X) */
+    .close-button {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        font-size: 20px;
+        cursor: pointer;
+    }
+</style>
+</head>
+<body>
+    <div class="login-container">
+        <h2>Xin chào, {{ username }}!</h2>
+        <a href="/logout">Đăng xuất</a>
+    </div>
+    
+<div class="main-content">
+    <h1>Danh sách Domain</h1>
+    <button id="add-domain-button">Add Domain</button>
+    
+    <!-- Phần khung nhập thông tin -->
+    <div class="popup-overlay" id="add-domain-popup">
+        <div class="popup-content">
+            <span class="close-button" id="close-button">&times;</span>
+            <h2>Thêm Domain</h2>
+            <form>
+               
+                <label for="domain-name">Domain Name:</label>
+                <input type="text" id="domain-name" name="domain-name" required><br>
+                <label for="ip">IP:</label>
+                <input type="text" id="ip" name="ip" required><br>
+                <label for="ssl">SSL:</label>
+                <input type="text" id="ssl" name="ssl" required><br>
+                <label for="project">Project:</label>
+                <input type="text" id="project" name="project" required><br>
+                <button type="submit">Save</button>
+                <button type="button" class="cancel-button" id="cancel-button">Hủy</button>
+            </form>
+        </div>
+    </div>
+    
+    <table>
+        <!-- Bảng dữ liệu domain hiện tại -->
+    </table>
+</div>
+<!-- ... -->
+
+    <div class="container">
+        <div class="sidebar">
+            <h2>Thư mục</h2>
+            <ul>
+                <li><a href="#">Domain</a></li>
+                <li><a href="#">Object</a></li>
+            </ul>
+        </div>
+        <div class="main-content">
+            <h1>Danh sách Domain</h1>
+            <table>
+                <tr>
+                    <th>Domain Name</th>
+                    <th>IP</th>
+                    <th>SSL</th> 
+                    <th>Project</th>
+                </tr>
+                <tr>
+                    <td>example.com</td>
+                    <td>192.168.1.1</td>
+                    <td>Yes</td> 
+                    <td>Project A</td>
+                </tr>
+                <tr>
+                    <td>sample.com</td>
+                    <td>192.168.1.2</td>
+                    <td>Yes</td> 
+                    <td>Project B</td>
+                </tr>
+                <!-- Thêm các dòng dữ liệu khác tương tự ở đây -->
+            </table>
+        </div>
+    </div>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const addButton = document.getElementById("add-domain-button");
+            const addPopup = document.getElementById("add-domain-popup");
+            const cancelButton = document.getElementById("cancel-button");
+
+            addButton.addEventListener("click", function () {
+                addPopup.style.display = "flex"; // Hiển thị khung "Add Domain" và sử dụng flex để canh giữa nó
+            });
+
+            cancelButton.addEventListener("click", function () {
+                addPopup.style.display = "none";
+            });
+        });
+    </script>
+</body>
+
+</html>

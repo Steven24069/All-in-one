@@ -14,12 +14,17 @@ script_dir = os.path.dirname(os.path.abspath(__file__))
 
 #定义请求地址
 #gt94732259
-api_key = "gGpnjSUkpVEg_FarYs2SQeFEZ3dgfaQLQdx"
-secret_key = "G8JaoPjHQba6KAzjSWQbPL"
+#api_key = "gGpnjSUkpVEg_FarYs2SQeFEZ3dgfaQLQdx"
+#secret_key = "G8JaoPjHQba6KAzjSWQbPL"
+
+#gt9494716083
+#api_key = "gGpnjSUnH8Wz_B9Hhb36nFx33EjU2Lz6xTz"
+#secret_key = "Wekzxhewek6RK9p2QLxiK5"
+
 
 #steven
-#api_key = "gH9tTdiRutpc_CbYo4tuTqEfSpy1WRrj2Hj"
-#secret_key = "KVSLPtRswS7qZXyeiB1Kua"
+api_key = "gH9tTdiRutpc_CbYo4tuTqEfSpy1WRrj2Hj"
+secret_key = "KVSLPtRswS7qZXyeiB1Kua"
 
 
 #domain = input("请输入域名: ")
