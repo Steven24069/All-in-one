@@ -1,0 +1,20 @@
+about jenkins , gitlab vs jenkins
+
+Gitlab_Pull_to_Jenkins
+
+vim /usr/lib/systemd/system/jenkins.service
+modifile user and group
+User=tomcat
+Group=tomcat
+
+
+
+-build environment
+Add timestamps to the console output
+color ANSI console output
+	xterm
+
+
+-Execute  shell
+
+cd /home/tomcat/demo && git fetch --all &&git reset --hart origin/master && git pull --depth=1 
